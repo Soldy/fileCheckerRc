@@ -1,0 +1,27 @@
+{
+    "name": "filecheckrc",
+    "version": "0.0.1",
+    "description": "filecheck",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soldy/fileCheckerRc"
+    },
+    "keywords": [],
+    "author": "Soldy",
+    "license": "GPLv3",
+    "bugs": {
+        "url": "https://github.com/Soldy/fileCheckerRc/issues"
+    },
+    "homepage": "https://github.com/Soldy/fileCheckerRc#readme",
+    "dependencies": {
+        "rapid-crc": "1.0.10"
+    },
+    "devDependencies": {
+        "nanoTest": "0.0.4-alpha",
+        "interactiveConsole": "0.0.7-alpha0"
+    }
+}
